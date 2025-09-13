@@ -1,6 +1,6 @@
 ## Hi, I am Rafi 👋
 
-![](Cover.png)
+![](Cover2.png)
 
 ## About Me
 
